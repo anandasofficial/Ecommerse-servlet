@@ -2,32 +2,40 @@ Here is a high-level flowchart for an e-commerce website:
 Landing Page:
 Displays the website logo, navigation menu, search bar, and featured products/categories.
 Users can browse products and search for specific items.
+
 Registration:
 Users can sign up for an account using their email address, social media account, or mobile number.
 Users can also sign in with an existing account if they have one.
 Account Management:
 Users can update their account information such as their name, address, and payment methods.
 Users can view their order history and track the status of their orders.
+
 Product Listing:
 Displays a list of products based on the user's search query or category selection.
 Each product has a product image, name, price, and brief description.
 Users can filter the list of products based on various attributes such as price, brand, and color.
+
 Product Detail:
 Displays detailed information about a specific product such as its description, specifications, and customer reviews.
 Users can add the product to their shopping cart or wish list.
+
 Shopping Cart:
 Displays the list of products added by the user for purchase.
 Users can modify the quantity of each product or remove them from the cart.
 Users can proceed to checkout or continue shopping.
+
 Checkout:
 Displays a summary of the products in the cart, total cost, and shipping information.
 Users can enter their shipping address and payment information.
 Users can review their order and confirm the purchase.
+
 Order Confirmation:
 Displays a confirmation message that the order has been received.
 Users receive an email with the order details and tracking information.
+
 Customer Support:
 Users can contact the customer support team for any issues related to their orders.
 Users can also access the website's FAQ section for answers to common questions.
+
 Logout:
 Users can log out of their account to ensure their privacy and security.
